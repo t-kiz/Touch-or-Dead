@@ -33,6 +33,13 @@ div.social-buttons {
 
 section {
   padding: 20px;
+  h2 {
+    margin: 50px 80px 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid gray;
+    border-width: 0 0 1px;
+  }
   ul.card-list {
     text-align: center;
     li {
